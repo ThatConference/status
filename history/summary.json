@@ -20,7 +20,7 @@
     "url": "https://api.that.tech",
     "slug": "that-api",
     "status": "down",
-    "uptime": "0.54%",
+    "uptime": "0.57%",
     "time": 697
   },
   {
@@ -28,7 +28,7 @@
     "url": "$SECRET_SITE",
     "slug": "that-api-2",
     "status": "up",
-    "uptime": "2.39%",
+    "uptime": "4.38%",
     "time": 87
   }
 ]

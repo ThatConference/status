@@ -4,15 +4,13 @@ repo: status # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
   - name: THAT.us
     url: https://that.us/activities
   - name: THAT Conference
     url: https://www.thatconference.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
+  - name: THAT API
+    url: https://api.that.tech
+  - name: THAT API 2
     url: $SECRET_SITE
 
 status-website:

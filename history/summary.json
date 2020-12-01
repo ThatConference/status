@@ -1,19 +1,11 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 155
-  },
-  {
     "name": "THAT.us",
     "url": "https://that.us/activities",
     "slug": "that-us",
     "status": "up",
     "uptime": "100.00%",
-    "time": 99
+    "time": 551
   },
   {
     "name": "THAT Conference",
@@ -21,22 +13,22 @@
     "slug": "that-conference",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1483
+    "time": 1477
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
+    "name": "THAT API",
+    "url": "https://api.that.tech",
+    "slug": "that-api",
     "status": "down",
-    "uptime": "100.00%",
-    "time": 0
+    "uptime": "17.33%",
+    "time": 781
   },
   {
-    "name": "Secret Site",
+    "name": "THAT API 2",
     "url": "$SECRET_SITE",
-    "slug": "secret-site",
+    "slug": "that-api-2",
     "status": "down",
-    "uptime": "100.00%",
+    "uptime": "20.79%",
     "time": 0
   }
 ]

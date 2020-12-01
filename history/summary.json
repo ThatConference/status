@@ -4,39 +4,39 @@
     "url": "https://www.google.com",
     "slug": "google",
     "status": "up",
-    "uptime": "99.99%",
-    "time": 87
+    "uptime": "100.00%",
+    "time": 155
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "THAT.us",
+    "url": "https://that.us/activities",
+    "slug": "that-us",
     "status": "up",
     "uptime": "100.00%",
-    "time": 111
+    "time": 99
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "THAT Conference",
+    "url": "https://www.thatconference.com",
+    "slug": "that-conference",
     "status": "up",
-    "uptime": "99.83%",
-    "time": 355
+    "uptime": "100.00%",
+    "time": 1483
   },
   {
     "name": "Broken Site",
     "url": "https://thissitedoesnotexist.com",
     "slug": "broken-site",
     "status": "down",
-    "uptime": "0.00%",
+    "uptime": "100.00%",
     "time": 0
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "99.98%",
-    "time": 48
+    "status": "down",
+    "uptime": "100.00%",
+    "time": 0
   }
 ]

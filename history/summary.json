@@ -1,0 +1,34 @@
+[
+  {
+    "name": "THAT.us",
+    "url": "https://that.us/activities",
+    "slug": "that-us",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 219
+  },
+  {
+    "name": "THAT Conference",
+    "url": "https://www.thatconference.com",
+    "slug": "that-conference",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1215
+  },
+  {
+    "name": "THAT API",
+    "url": "https://api.that.tech",
+    "slug": "that-api",
+    "status": "down",
+    "uptime": "0.00%",
+    "time": 420
+  },
+  {
+    "name": "THAT API 2",
+    "url": "$SECRET_SITE",
+    "slug": "that-api-2",
+    "status": "up",
+    "uptime": "0.00%",
+    "time": 97
+  }
+]

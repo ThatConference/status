@@ -5,7 +5,7 @@
     "slug": "that-us",
     "status": "up",
     "uptime": "100.00%",
-    "time": 300
+    "time": 283
   },
   {
     "name": "THAT Conference",
@@ -13,7 +13,7 @@
     "slug": "that-conference",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1451
+    "time": 1427
   },
   {
     "name": "THAT API",
@@ -21,14 +21,14 @@
     "slug": "that-api",
     "status": "down",
     "uptime": "0.02%",
-    "time": 551
+    "time": 509
   },
   {
     "name": "THAT API 2",
     "url": "$SECRET_SITE",
     "slug": "that-api-2",
     "status": "up",
-    "uptime": "15.82%",
-    "time": 99
+    "uptime": "18.20%",
+    "time": 115
   }
 ]

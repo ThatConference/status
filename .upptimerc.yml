@@ -9,8 +9,6 @@ sites:
   - name: THAT Conference
     url: https://www.thatconference.com
   - name: THAT API
-    url: https://api.that.tech
-  - name: THAT API 2
     url: $SECRET_SITE
 
 status-website:

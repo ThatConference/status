@@ -6,7 +6,7 @@ repo: status # Your Github repository name
 sites:
   - name: THAT.us
     url: https://that.us/activities
-  - name: THAT Conference
+  - name: THATconference.com
     url: https://www.thatconference.com
   - name: THAT API
     url: $SECRET_SITE

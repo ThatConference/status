@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 126,
-    "timeWeek": 205,
-    "timeMonth": 205,
-    "timeYear": 205
+    "time": 198,
+    "timeDay": 118,
+    "timeWeek": 198,
+    "timeMonth": 198,
+    "timeYear": 198
   },
   {
     "name": "THATconference.com",
@@ -25,26 +25,26 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1857,
-    "timeDay": 1857,
-    "timeWeek": 1857,
-    "timeMonth": 1857,
-    "timeYear": 1857
+    "time": 1596,
+    "timeDay": 1075,
+    "timeWeek": 1596,
+    "timeMonth": 1596,
+    "timeYear": 1596
   },
   {
     "name": "THAT API",
     "url": "$SECRET_SITE",
     "slug": "that-api",
     "status": "up",
-    "uptime": "79.31%",
-    "uptimeDay": "96.74%",
-    "uptimeWeek": "79.31%",
-    "uptimeMonth": "79.31%",
-    "uptimeYear": "79.31%",
-    "time": 340,
-    "timeDay": 199,
-    "timeWeek": 340,
-    "timeMonth": 340,
-    "timeYear": 340
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 317,
+    "timeDay": 86,
+    "timeWeek": 317,
+    "timeMonth": 317,
+    "timeYear": 317
   }
 ]

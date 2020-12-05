@@ -10,6 +10,10 @@ sites:
     url: https://www.thatconference.com
   - name: THAT API
     url: $SECRET_SITE
+  - name: API Gateway
+    url: $GATEWAY_TEST
+    headers:
+      - "Content-Type: application/json"
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -18,13 +22,15 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/ThatConference/that.us/master/public/images/THAT-Full-Wide.svg
   name: THAT Status
-  introTitle: "**THAT Status** uptime status of the THAT sites"
+  introTitle: "**THAT Status** uptime page of the THAT sites"
   introMessage: This status page which uses **real-time** data from our [Github repository](https://github.com/thatconference/status). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: THAT.us
+      href: https://that.us
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 151,
-    "timeWeek": 194,
-    "timeMonth": 194,
-    "timeYear": 194
+    "time": 191,
+    "timeDay": 152,
+    "timeWeek": 191,
+    "timeMonth": 191,
+    "timeYear": 191
   },
   {
     "name": "THATconference.com",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1494,
-    "timeDay": 1187,
-    "timeWeek": 1494,
-    "timeMonth": 1494,
-    "timeYear": 1494
+    "time": 1388,
+    "timeDay": 1076,
+    "timeWeek": 1388,
+    "timeMonth": 1388,
+    "timeYear": 1388
   },
   {
     "name": "THAT API",
@@ -41,10 +41,26 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 94,
-    "timeWeek": 298,
-    "timeMonth": 298,
-    "timeYear": 298
+    "time": 288,
+    "timeDay": 130,
+    "timeWeek": 288,
+    "timeMonth": 288,
+    "timeYear": 288
+  },
+  {
+    "name": "API Gateway",
+    "url": "$GATEWAY_TEST",
+    "slug": "api-gateway",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3761,
+    "timeDay": 3761,
+    "timeWeek": 3761,
+    "timeMonth": 3761,
+    "timeYear": 3761
   }
 ]

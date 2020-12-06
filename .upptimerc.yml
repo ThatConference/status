@@ -15,13 +15,13 @@ sites:
     url: $GATEWAY_TEST
     headers:
       - "Content-Type: application/json"
-  - name: API Events
-    url: $EVENTS_TEST
-    headers:
-      - "Content-Type: application/json"
-    body: '{"query":"query{events{all(type:THAT_US){id year slug slogan}}}"}'
-    method: POST
-    __dangerous__body_down: "error"
+#   - name: API Events
+#     url: $EVENTS_TEST
+#     headers:
+#       - "Content-Type: application/json"
+#     body: '{"query":"query{events{all(type:THAT_US){id year slug slogan}}}"}'
+#     method: POST
+#     __dangerous__body_down: "error"
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

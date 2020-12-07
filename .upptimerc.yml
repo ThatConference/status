@@ -5,13 +5,17 @@ repo: status # Your Github repository name
 # Add your sites here
 sites:
   - name: THAT.us
+    icon: https://that.us/favicon.png
     url: https://that.us/activities
   - name: THATconference.com
+    icon: https://www.thatconference.com/favicon.png
     url: https://www.thatconference.com
   - name: THAT API
+    icon: https://www.thatconference.com/images/icons/favicon-72.png
     url: $SECRET_SITE
   - name: API Gateway
     # pointed at refresh uri
+    icon: https://www.thatconference.com/images/icons/favicon-72.png
     url: $GATEWAY_TEST
     headers:
       - "Content-Type: application/json"

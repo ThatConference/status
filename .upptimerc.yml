@@ -20,9 +20,8 @@ sites:
     headers:
       - "Content-Type: application/json"
   - name: API SESSIONS
+    icon: https://www.thatconference.com/images/icons/favicon-72.png
     url: $SESSIONS_TEST
-    headers:
-      - "Content-Type": application/json"
     __dangerous__body_down: "error"
 #   - name: API Events
 #     url: $EVENTS_TEST

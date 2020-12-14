@@ -19,6 +19,11 @@ sites:
     url: $GATEWAY_TEST
     headers:
       - "Content-Type: application/json"
+  - name: API SESSIONS
+    url: $SESSIONS_TEST
+    headers:
+      - "Content-Type": application/json"
+    __dangerous__body_down: "error"
 #   - name: API Events
 #     url: $EVENTS_TEST
 #     headers:

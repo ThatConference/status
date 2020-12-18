@@ -4,27 +4,29 @@
     "url": "https://that.us/activities",
     "icon": "https://that.us/favicon.png",
     "slug": "that-us",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 181,
     "timeDay": 102,
     "timeWeek": 157,
     "timeMonth": 181,
     "timeYear": 181,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-18": 2
+    }
   },
   {
     "name": "THATconference.com",
     "url": "https://www.thatconference.com",
     "icon": "https://www.thatconference.com/favicon.png",
     "slug": "tha-tconference-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 962,
     "timeMonth": 1162,
     "timeYear": 1162,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-18": 0
+    }
   },
   {
     "name": "THAT API",

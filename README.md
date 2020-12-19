@@ -25,7 +25,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://status.thatconference.com)
+[**Visit our status website →**](https://status.that.tech)
 
 ## 📄 License
 

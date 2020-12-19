@@ -1,4 +1,4 @@
-# [📈 Live Status](https://status.thatconference.com): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://status.that.tech): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [THAT Conference](https://www.thatconference.com), powered by [Upptime](https://github.com/upptime/upptime).
 

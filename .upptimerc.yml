@@ -10,26 +10,30 @@ sites:
   - name: THATconference.com
     icon: https://www.thatconference.com/favicon.png
     url: https://www.thatconference.com
-  - name: THAT API
-    icon: https://www.thatconference.com/images/icons/favicon-72.png
-    url: $SECRET_SITE
   - name: API Gateway
-    # pointed at refresh uri
     icon: https://www.thatconference.com/images/icons/favicon-72.png
+    # pointed at refresh uri
     url: $GATEWAY_TEST
     headers:
       - "Content-Type: application/json"
+  - name: API Events
+    icon: https://www.thatconference.com/images/icons/favicon-72.png
+    url: $EVENTS_TEST
+    headers:
+      - "Content-Type: application/json"
+    __dangerous__body_down: "error"
   - name: API SESSIONS
     icon: https://www.thatconference.com/images/icons/favicon-72.png
+    headers:
+      - "Content-Type: application/json"
     url: $SESSIONS_TEST
     __dangerous__body_down: "error"
-#   - name: API Events
-#     url: $EVENTS_TEST
-#     headers:
-#       - "Content-Type: application/json"
-#     body: '{"query":"query{events{all(type:THAT_US){id year slug slogan}}}"}'
-#     method: POST
-#     __dangerous__body_down: "error"
+  - name: API GARAGE
+    icon: https://www.thatconference.com/images/icons/favicon-72.png
+    headers:
+      - "Content-Type: application/json"
+    url: $GARAGE_TEST
+    __dangerous__body_down: "error"
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

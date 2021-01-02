@@ -42,8 +42,8 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/ThatConference/that.us/master/public/images/THAT-Full-Wide.svg
   name: THAT Status
-  introTitle: "**THAT Status** uptime page of the THAT sites"
-  introMessage: This status page which uses **real-time** data from our [Github repository](https://github.com/thatconference/status). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introTitle: "**THAT Status**"
+  introMessage: This status page, for the THAT Sites, uses **real-time** data from our [Status Github repository](https://github.com/thatconference/status). No server required — only GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
   navbar:
     - title: Status
       href: /

@@ -1,7 +1,7 @@
-url: $GARAGE_TEST  
+url: $GARAGE_TEST
 status: up
 code: 200
-responseTime: 559
-lastUpdated: 2021-01-05T23:20:10.138Z
+responseTime: 489
+lastUpdated: 2021-01-06T23:21:18.183Z
 startTime: Sat Dec 19 2020 01:24:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

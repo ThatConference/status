@@ -22,6 +22,18 @@ sites:
     headers:
       - "Content-Type: application/json"
     __dangerous__body_down: "error"
+  - name: API Members
+    icon: https://www.thatconference.com/images/icons/favicon-72.png
+    url: $MEMBERS_TEST
+    headers:
+      - "Content-Type: application/json"
+    __dangerous__body_down: "error"
+  - name: API Partners
+    icon: https://www.thatconference.com/images/icons/favicon-72.png
+    url: $PARTNERS_TEST
+    headers:
+      - "Content-Type: application/json"
+    __dangerous__body_down: "error"
   - name: API SESSIONS
     icon: https://www.thatconference.com/images/icons/favicon-72.png
     headers:

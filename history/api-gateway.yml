@@ -1,7 +1,7 @@
 url: $GATEWAY_TEST
 status: up
 code: 200
-responseTime: 493
-lastUpdated: 2021-01-21T23:30:45.545Z
+responseTime: 384
+lastUpdated: 2021-01-22T23:32:00.941Z
 startTime: Sat Dec 05 2020 19:26:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

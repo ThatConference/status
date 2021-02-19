@@ -58,18 +58,20 @@
     "url": "$EVENTS_TEST",
     "icon": "https://www.thatconference.com/images/icons/favicon-72.png",
     "slug": "api-events",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 171,
-    "timeDay": 156,
-    "timeWeek": 164,
-    "timeMonth": 172,
-    "timeYear": 171,
-    "dailyMinutesDown": {}
+    "time": 170,
+    "timeDay": 122,
+    "timeWeek": 154,
+    "timeMonth": 169,
+    "timeYear": 170,
+    "dailyMinutesDown": {
+      "2021-02-19": 0
+    }
   },
   {
     "name": "API Members",

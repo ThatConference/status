@@ -4,10 +4,10 @@
     "url": "https://that.us/activities",
     "icon": "https://that.us/favicon.png",
     "slug": "that-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 157,
@@ -15,7 +15,9 @@
     "timeWeek": 104,
     "timeMonth": 118,
     "timeYear": 157,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-15": 1
+    }
   },
   {
     "name": "THATconference.com",

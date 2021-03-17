@@ -4,10 +4,10 @@
     "url": "https://that.us/activities",
     "icon": "https://that.us/favicon.png",
     "slug": "that-us",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 156,
@@ -16,6 +16,7 @@
     "timeMonth": 116,
     "timeYear": 156,
     "dailyMinutesDown": {
+      "2021-03-17": 0,
       "2021-03-15": 24
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://www.thatconference.com",
     "icon": "https://www.thatconference.com/favicon.png",
     "slug": "tha-tconference-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +36,9 @@
     "timeWeek": 1070,
     "timeMonth": 1082,
     "timeYear": 1154,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-17": 0
+    }
   },
   {
     "name": "API Gateway",

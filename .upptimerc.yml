@@ -46,6 +46,12 @@ sites:
       - "Content-Type: application/json"
     url: $GARAGE_TEST
     __dangerous__body_down: "error"
+  - name: API COMMUNICATIONS
+    icon: https://www.thatconference.com/images/icons/favicon-72.png
+    headers:
+      - "Content-Type: application/json"
+    url: $COMMUNICATIONS_TEST
+    __dangerous__body_down: "error"
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

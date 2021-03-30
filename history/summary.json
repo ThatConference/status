@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
-    "time": 155,
-    "timeDay": 100,
-    "timeWeek": 179,
-    "timeMonth": 125,
-    "timeYear": 155,
+    "time": 154,
+    "timeDay": 74,
+    "timeWeek": 166,
+    "timeMonth": 123,
+    "timeYear": 154,
     "dailyMinutesDown": {
       "2021-03-17": 20,
       "2021-03-15": 24
@@ -32,9 +32,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.97%",
     "time": 1156,
-    "timeDay": 1242,
-    "timeWeek": 1391,
-    "timeMonth": 1122,
+    "timeDay": 1243,
+    "timeWeek": 1300,
+    "timeMonth": 1126,
     "timeYear": 1156,
     "dailyMinutesDown": {
       "2021-03-17": 49
@@ -46,17 +46,21 @@
     "icon": "https://www.thatconference.com/images/icons/favicon-72.png",
     "slug": "api-gateway",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 646,
-    "timeDay": 388,
-    "timeWeek": 440,
-    "timeMonth": 555,
-    "timeYear": 646,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.91%",
+    "time": 644,
+    "timeDay": 449,
+    "timeWeek": 427,
+    "timeMonth": 552,
+    "timeYear": 644,
+    "dailyMinutesDown": {
+      "2021-03-17": 69,
+      "2021-03-15": 24,
+      "2021-02-19": 56
+    }
   },
   {
     "name": "API Events",
@@ -69,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 166,
-    "timeDay": 132,
-    "timeWeek": 142,
-    "timeMonth": 155,
-    "timeYear": 166,
+    "time": 165,
+    "timeDay": 131,
+    "timeWeek": 143,
+    "timeMonth": 154,
+    "timeYear": 165,
     "dailyMinutesDown": {
       "2021-02-19": 56
     }
@@ -84,17 +88,21 @@
     "icon": "https://www.thatconference.com/images/icons/favicon-72.png",
     "slug": "api-members",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 163,
-    "timeDay": 187,
-    "timeWeek": 163,
-    "timeMonth": 152,
-    "timeYear": 163,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.87%",
+    "time": 164,
+    "timeDay": 218,
+    "timeWeek": 173,
+    "timeMonth": 154,
+    "timeYear": 164,
+    "dailyMinutesDown": {
+      "2021-03-17": 69,
+      "2021-03-15": 24,
+      "2021-02-19": 56
+    }
   },
   {
     "name": "API Partners",
@@ -102,17 +110,21 @@
     "icon": "https://www.thatconference.com/images/icons/favicon-72.png",
     "slug": "api-partners",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.87%",
     "time": 192,
-    "timeDay": 266,
-    "timeWeek": 209,
-    "timeMonth": 188,
+    "timeDay": 216,
+    "timeWeek": 218,
+    "timeMonth": 189,
     "timeYear": 192,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-17": 69,
+      "2021-03-15": 24,
+      "2021-02-19": 56
+    }
   },
   {
     "name": "API SESSIONS",
@@ -120,17 +132,21 @@
     "icon": "https://www.thatconference.com/images/icons/favicon-72.png",
     "slug": "api-sessions",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 139,
-    "timeWeek": 139,
-    "timeMonth": 171,
-    "timeYear": 308,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.90%",
+    "time": 307,
+    "timeDay": 199,
+    "timeWeek": 149,
+    "timeMonth": 172,
+    "timeYear": 307,
+    "dailyMinutesDown": {
+      "2021-03-17": 69,
+      "2021-03-15": 24,
+      "2021-02-19": 56
+    }
   },
   {
     "name": "API GARAGE",
@@ -138,17 +154,21 @@
     "icon": "https://www.thatconference.com/images/icons/favicon-72.png",
     "slug": "api-garage",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 343,
-    "timeDay": 170,
-    "timeWeek": 171,
-    "timeMonth": 163,
-    "timeYear": 343,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.90%",
+    "time": 341,
+    "timeDay": 148,
+    "timeWeek": 172,
+    "timeMonth": 162,
+    "timeYear": 341,
+    "dailyMinutesDown": {
+      "2021-03-17": 69,
+      "2021-03-15": 24,
+      "2021-02-19": 56
+    }
   },
   {
     "name": "API COMMUNICATIONS",
@@ -156,16 +176,20 @@
     "icon": "https://www.thatconference.com/images/icons/favicon-72.png",
     "slug": "api-communications",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "98.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 788,
-    "timeDay": 159,
-    "timeWeek": 102,
-    "timeMonth": 788,
-    "timeYear": 788,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "98.98%",
+    "time": 732,
+    "timeDay": 119,
+    "timeWeek": 107,
+    "timeMonth": 732,
+    "timeYear": 732,
+    "dailyMinutesDown": {
+      "2021-03-17": 69,
+      "2021-03-15": 24,
+      "2021-02-19": 56
+    }
   }
 ]

@@ -155,17 +155,17 @@
     "url": "$COMMUNICATIONS_TEST",
     "icon": "https://www.thatconference.com/images/icons/favicon-72.png",
     "slug": "api-communications",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 282,
-    "timeDay": 90,
-    "timeWeek": 93,
-    "timeMonth": 98,
-    "timeYear": 282,
+    "time": 277,
+    "timeDay": 78,
+    "timeWeek": 89,
+    "timeMonth": 97,
+    "timeYear": 277,
     "dailyMinutesDown": {}
   }
 ]

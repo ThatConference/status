@@ -1,7 +1,7 @@
 url: $PARTNERS_TEST
-status: down
+status: up
 code: 200
-responseTime: 107
-lastUpdated: 2021-05-31T14:43:11.155Z
+responseTime: 183
+lastUpdated: 2021-05-31T15:52:02.914Z
 startTime: Mon Jan 11 2021 21:20:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

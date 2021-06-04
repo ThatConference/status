@@ -1,4 +1,7 @@
-# [📈 Live Status](https://status.that.tech): <!--live status--> **🟩 All systems operational**
+# This repo is no longer used for monitoring THAT Status
+(6/4/2021)
+
+# ~~[📈 Live Status](https://status.that.tech): <!--live status--> **🟩 All systems operational**~~
 
 This repository contains the open-source uptime monitor and status page for [THAT Conference](https://www.thatconference.com), [THAT.us](https://that.us), and the API, powered by [Upptime](https://github.com/upptime/upptime).
 
